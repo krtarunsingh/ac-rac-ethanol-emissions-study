@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "A Data-Driven Comparative Assessment of Pollution from Ethanol Production and RAC Systems"
+message: "If you use this work, please cite it using the metadata from Zenodo."
+type: software
+authors:
+  - family-names: Singh
+    given-names: Tarun
+year: 2026
+doi: 10.5281/zenodo.21021495
+license: MIT
+repository-code: "https://github.com/krtarunsingh/ac-rac-ethanol-emissions-study"
+abstract: "A global screening-level data model comparing emissions from ethanol production, air-conditioning, refrigeration, and household cooling systems."
+keywords:
+  - CO2e
+  - air conditioning
+  - refrigeration
+  - ethanol production
+  - RAC
+  - emissions forecasting
+  - refrigerant leakage
